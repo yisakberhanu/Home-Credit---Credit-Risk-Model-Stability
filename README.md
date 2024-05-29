@@ -28,7 +28,9 @@ This repository offers code and explanations for the Kaggle competition, "Home C
 
 **Models**
 
-* This folder contains scripts for building and evaluating models. The approach might involve techniques like LightGBM or other algorithms suitable for stability-focused tasks. (Provide a brief overview of the specific models used in your notebooks, incorporating insights from the competition evaluation criteria).
+*This folder contains scripts for building and evaluating LightGBM and CatBoost models. Both algorithms are well-suited for gradient boosting and have demonstrated excellent performance in various tasks, including stability-focused problems like this one.
+LightGBM: Known for its efficiency, speed, and capability to handle large datasets.
+CatBoost: Offers features like automatic categorical feature handling and effective regularization, potentially leading to more robust models.
 
 **Evaluation**
 
