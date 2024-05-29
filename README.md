@@ -44,7 +44,7 @@ This repository offers code and explanations for the Kaggle competition, "Home C
 
 **License**
 
-* Specify the license under which you distribute your code (e.g., MIT License).
+* Appach 2.0.
 
 **Authors**
 
@@ -52,5 +52,5 @@ This repository offers code and explanations for the Kaggle competition, "Home C
 
 **References**
 
-* Include the competition citation from Kaggle, as well as any other relevant references.
+* Kaggle
 
